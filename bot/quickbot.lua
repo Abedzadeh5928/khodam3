@@ -273,7 +273,7 @@ function create_config( )
     "GET",
     "link"
     },
-    sudo_users = {112392827,tonumber(our_id)},--Sudo users
+    sudo_users = {119707014},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
