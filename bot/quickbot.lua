@@ -271,7 +271,12 @@ function create_config( )
     "echo",
     "Calculator",
     "GET",
-    "link"
+    "link",
+    "voice",
+    "insta",
+    "badword",
+    "praytime",
+    "aparat"
     },
     sudo_users = {119707014},--Sudo users
     disabled_channels = {},
